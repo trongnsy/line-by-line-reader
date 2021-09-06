@@ -1,0 +1,22 @@
+{
+  "name": "csv-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "@types/yargs": "^17.0.2",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
