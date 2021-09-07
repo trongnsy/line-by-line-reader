@@ -1,5 +1,5 @@
 # Line By Line Reader
-Just a generic module that helps to read a flat file line by line
+Just a generic module code that helps to compute data when read a flat file line by line
 
 ## Develop
 - Using `fs` and `readline` module that are inbuilt modules in Node
